@@ -40,7 +40,7 @@
 
 [^2]: Democratic, Pragmatic, Infrastructure, Public and Measurement
 
-![Figure 1](images/figure1.png)
+<img src=/images/figure1.png width="200" height="200" />
 
 **Figure 1: The four pillars of open science discussed in this article.**
 
@@ -198,7 +198,7 @@
 
 	Launched very recently, Open Knowledge Maps is a large-scale system of open, interactive and interlinked knowledge maps spanning all fields of research (currently based on the PLOS library). **Figure 2** shows an example of a knowledge map for the query “cell migration”.
 
-	![Figure 2](images/figure2.png)
+	<img src=/images/figure2.png width="400" height="400" />
 
 > **Figure 2: The Open Knowledge Map for the query “cell migration”.**
 
@@ -248,7 +248,7 @@
 >
 > Another form of open review comes from comments on blogs or third party sites, independent of any formal peer-review that may have already occurred on the article. Amongst other platforms, PubMed Commons was launched in 2013 as an initiative to enable signed post-publication commenting on articles indexed by PubMed. It is worth noting that this platform is not related to any specific journal or publisher, and as such constitutes a forum for public scientific discourse.
 
-![Figure 3](images/figure3.png)
+<img src=/images/figure3.png width="600" height="200" />
 
 **Figure 3: A schematic overview of a post-publication open-review model.**
 
@@ -321,7 +321,7 @@
 
 	A project for the free sharing of open science resources, Opening Science has published the Open Book: “Opening Science – The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing” (http://www.openingscience.org/get-the-book/).
 
-![Figure 4](images/figure4.png)
+	<img src=/images/figure4.png width="600" height="400" />
 
 > **Figure 4: The FOSTER Open Science taxonomy.**
 >
@@ -332,7 +332,7 @@
 
 > If you are willing to engage in open science, there are a number of practices and resolutions that can be adopted without too much effort; **Box 1** lists the key ones.
 
-![Box 1](images/box1.png)
+<img src=/images/box1.png width="750" height="600" />
 
 **Box 1: Practices and resolutions to adopt in order to engage in open science.**
 
